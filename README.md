@@ -1,6 +1,7 @@
 **Online Retail Customer Segmentation (RFM Analysis)***
 
 ---Project Overview---
+
 This project focuses on analyzing a transnational dataset containing all transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
 
 The primary goal was to assist the Marketing Director in understanding customer behavior and sales performance to drive data-driven decisions. Specifically, the analysis answers three key business questions:
