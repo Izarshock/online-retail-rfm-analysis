@@ -39,12 +39,12 @@ The analysis identified the top 5 products by quantity sold, such as World War 2
 
 <img width="983" height="590" alt="image" src="https://github.com/user-attachments/assets/7bff930f-dbfa-4891-bc46-8c0045bb32e7" />
 
-3. Top Markets (Revenue by Country)
+2. Top Markets (Revenue by Country)
 Excluding the UK, the top international markets were identified. Netherlands, EIRE, and Germany emerged as the most profitable regions, suggesting focused marketing campaigns in these areas.
 
 <img width="889" height="490" alt="image" src="https://github.com/user-attachments/assets/07ac45a9-f016-4e1b-9b39-2449b66e3ae5" />
 
-5. Customer Segmentation
+3. Customer Segmentation
 Using the RFM model, customers were assigned scores and categorized into segments.
 
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/1f946356-7295-429c-a719-822a23a42954" />
