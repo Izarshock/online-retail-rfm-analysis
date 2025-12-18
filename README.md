@@ -1,6 +1,6 @@
-**Online Retail Customer Segmentation (RFM Analysis)***
+**Online Retail Customer Segmentation (RFM Analysis)**
 
----Project Overview---
+**---Project Overview---**
 
 This project focuses on analyzing a transnational dataset containing all transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
 
@@ -12,19 +12,19 @@ Which countries generate the most revenue?
 
 Who are the most valuable customers? (Solved using RFM Segmentation)
 
----Data Source---
+**---Data Source---**
 
 The dataset used in this analysis is the Online Retail dataset. Due to GitHub's file size limitations, the raw .csv file is not included in this repository.
 
 Link to the original data: [Online Retail Dataset on Kaggle](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 
----Methodology and Tech Stack---
+**---Methodology and Tech Stack---**
 
 Language: Python 3
 
 Libraries: Pandas, Matplotlib, Seaborn
 
----Key Techniques---
+**---Key Techniques---**
 
 Data Cleaning: Handling missing values (CustomerID and Description), removing negative quantities, and filtering out invalid prices.
 
@@ -32,7 +32,7 @@ Exploratory Data Analysis (EDA): Sales distribution by country and identificatio
 
 RFM Analysis: Customer segmentation based on Recency (days since last purchase), Frequency (total number of transactions), and Monetary (total spend).
 
----Key Findings---
+**---Key Findings---**
 
 1. Best-Selling Products
 The analysis identified the top 5 products by quantity sold, such as World War 2 Gliders and Jumbo Bag Red Retrospot. These items drive the bulk of the volume and are crucial for inventory management.
