@@ -1,4 +1,4 @@
-<img width="983" height="590" alt="image" src="https://github.com/user-attachments/assets/03c507ba-5fbc-4c9e-9ecd-65dc0c41a73b" />***Online Retail Customer Segmentation (RFM Analysis)***
+**Online Retail Customer Segmentation (RFM Analysis)***
 
 ---Project Overview---
 This project focuses on analyzing a transnational dataset containing all transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
