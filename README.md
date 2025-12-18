@@ -12,12 +12,14 @@ Which countries generate the most revenue?
 
 Who are the most valuable customers? (Solved using RFM Segmentation)
 
-vData Source---
+---Data Source---
+
 The dataset used in this analysis is the Online Retail dataset. Due to GitHub's file size limitations, the raw .csv file is not included in this repository.
 
 Link to the original data: [Online Retail Dataset on Kaggle](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 
 ---Methodology and Tech Stack---
+
 Language: Python 3
 
 Libraries: Pandas, Matplotlib, Seaborn
@@ -31,6 +33,7 @@ Exploratory Data Analysis (EDA): Sales distribution by country and identificatio
 RFM Analysis: Customer segmentation based on Recency (days since last purchase), Frequency (total number of transactions), and Monetary (total spend).
 
 ---Key Findings---
+
 1. Best-Selling Products
 The analysis identified the top 5 products by quantity sold, such as World War 2 Gliders and Jumbo Bag Red Retrospot. These items drive the bulk of the volume and are crucial for inventory management.
 <img width="983" height="590" alt="image" src="https://github.com/user-attachments/assets/7bff930f-dbfa-4891-bc46-8c0045bb32e7" />
